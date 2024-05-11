@@ -23,14 +23,17 @@ Você já perdeu plantas por esquecer de regá-las? Se sim, este aplicativo é p
 2. **Importe uma Imagem da Planta:** Selecione uma imagem da sua planta e deixe o aplicativo analisá-la para determinar suas necessidades de rega.
 
 ![Passo 3](style/Imagem3.png)
+
 Selecione uma foto da sua planta.
 
 3. **Receba Lembretes Personalizados:** Com base na análise da imagem, o aplicativo programará automaticamente lembretes de rega personalizados para cada uma de suas plantas.
 
 ![Passo 4](style/Imagem4.png)
+
 Crie lembretes de cuidado com a planta de acordo com a frequência de rega.
 
 4. **Cuide das Suas Plantas:** Siga os lembretes e mantenha suas plantas saudáveis e felizes!
 
 ![Passo 5](style/Imagem5.png)
+
 Seja notificado pelo Google Calendar!
