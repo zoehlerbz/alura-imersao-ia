@@ -1,6 +1,6 @@
 # 🌿 Não Deixe Suas Plantas Morrerem de Sede! 🌿
 
-Você já perdeu plantas por esquecer de regá-las? Se sim, este aplicativo é para você! O Lembrete de Regar Plantas é uma ferramenta inovadora baseada na tecnologia de Modelos Gemini de Linguagem de Grande Escala (LLM) da Google, reconhecida por sua altíssima performance na análise de imagem de plantas. Com essa poderosa tecnologia, o aplicativo identifica as características únicas de suas plantas e gera lembretes personalizados de rega, garantindo que suas plantinhas nunca mais murchem de sede.
+Você já perdeu plantas por esquecer de regá-las? Se sim, este aplicativo é para você! O Lembrete de Regar Plantas é uma ferramenta inovadora baseada na tecnologia de Modelos Gemini de Linguagem de Grande Escala (LLM) da Google, reconhecida por sua altíssima performance na análise de imagem de plantas, juntamente com sua ferramenta de calendário favorita, o Google Calendar. Com essa poderosa tecnologia, o aplicativo identifica as características únicas de suas plantas e gera lembretes personalizados de rega, garantindo que suas plantinhas nunca mais murchem de sede.
 
 ![planta-seca](style/Planta.gif)
 
